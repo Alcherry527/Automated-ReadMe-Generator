@@ -43,12 +43,12 @@ const questions = [
   },
   {
     type: "input",
-    name: "Questions",
+    name: "github",
     Message: "What is your GitHub Username?",
   },
   {
     type: "input",
-    name: "Questions",
+    name: "email",
     Message: "What is your email address?",
   },
 ];
@@ -65,7 +65,7 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions).then((answers) => {
     console.log(answers);
-    writeToFile("ReadMeTest.md", generateMarkdown(answers));
+    writeToFile("README-Test.md", generateMarkdown(answers));
   });
 }
 

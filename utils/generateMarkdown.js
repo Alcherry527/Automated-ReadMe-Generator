@@ -27,13 +27,21 @@ function getLicenseUrl(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ![Static Badge](https://img.shields.io/badge/license-${getLicenseName(
-    data.license
-  )}-green)
+![Static Badge](https://img.shields.io/badge/license-${getLicenseName(
+  data.license
+)}-green)
 
 
  ## Description
 ${data.description}
+
+${data.installation}
+
+## Questions
+If you have further questions contact me at ${data.email}
+
+My github username is [${data.github}](https://github.com/${data.github}). 
+
 
 [license](https://choosealicense.com/licenses/${getLicenseUrl(data.license)})
 `;
