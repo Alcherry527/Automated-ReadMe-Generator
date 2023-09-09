@@ -1,7 +1,16 @@
 # ReadMe GEnerator
 ![Static Badge](https://img.shields.io/badge/license-MIT-green)
 
+## TOC <!-- omit in toc -->
 
+## Table of Contents
+  + [Description](#description)
+  + [Installation Instructions](#installation-instructions)
+  + [Usage](#usage)
+  + [Contributions](#contributions)
+  + [Tests](#tests)
+  + [Questions](#questions)
+  
  ## Description
 Making a Readme
 
