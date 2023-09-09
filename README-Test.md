@@ -1,16 +1,27 @@
-# readme
-![Static Badge](https://img.shields.io/badge/license-Apache%202.0-green)
+# ReadMe GEnerator
+![Static Badge](https://img.shields.io/badge/license-MIT-green)
 
 
  ## Description
-making a readme
+Making a Readme
 
-unclear
+## Installation Instructions
+no installation required
+
+## Usage
+Automating ReadMe generation
+
+## Contributions
+Myself, wes, and john
+
+
+## Tests
+not sure
 
 ## Questions
-If you have further questions contact me at aminah.cherry@gmail
+If you have further questions contact me at AMINAH.CHERY@GMAIL.COM
 
-My github username is [alcherry527](https://github.com/alcherry527). 
+My github username is [QLCHERRY527](https://github.com/QLCHERRY527). 
 
 
-[license](https://choosealicense.com/licenses/apache-2.0)
+[license](https://choosealicense.com/licenses/mit)

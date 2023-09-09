@@ -31,11 +31,23 @@ function generateMarkdown(data) {
   data.license
 )}-green)
 
+// TODO: CREATE A TABLE OF CONTENTS 
 
  ## Description
 ${data.description}
 
+## Installation Instructions
 ${data.installation}
+
+## Usage
+${data.usage}
+
+## Contributions
+${data.contribution}
+
+
+## Tests
+${data.test}
 
 ## Questions
 If you have further questions contact me at ${data.email}
